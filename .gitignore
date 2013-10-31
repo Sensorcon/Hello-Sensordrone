@@ -1,0 +1,7 @@
+.idea/**
+gen/**
+bin/**
+ant.properties
+build.xml
+**.iml
+local.properties
