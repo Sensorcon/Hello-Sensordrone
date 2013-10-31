@@ -5,3 +5,4 @@ ant.properties
 build.xml
 **.iml
 local.properties
+out/**
